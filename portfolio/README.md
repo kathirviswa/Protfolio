@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 My portfolio website [https://vsmidhun21.github.io]
+- 👨‍💻 My portfolio website []
 
 
 - 💬 Ask me about **HTML, CSS ,Bootstarp, TailwindCss,Javascript, Nuxt3.js, Vuejs**
