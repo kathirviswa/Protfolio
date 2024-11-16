@@ -1,6 +1,6 @@
 <img  alt="portfolio" width="100%" src="./img/ProfileGif.gif">
 <h1 align="center">Hi 👋, I'm Kathiresan V</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Frontend developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/vsmidhun21/vsmidhun21/master/coding.gif">
 
